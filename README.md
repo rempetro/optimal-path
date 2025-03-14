@@ -20,15 +20,9 @@
 
 The program generates a visual representation of the optimal path for point collection and return, similar to the example shown below:
 
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/005.png" alt="Optimal Path for 5 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/010.png" alt="Optimal Path for  5 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/015.png" alt="Optimal Path for 15 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/020.png" alt="Optimal Path for 5 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/025.png" alt="Optimal Path for 25 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/050.png" alt="Optimal Path for 50 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/500.png" alt="Optimal Path for 500 Points" width="200px">
-<img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/5000.png" alt="Optimal Path for 500 Points" width="200px">
-
+| <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/005.png" alt="Optimal Path for 5 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/010.png" alt="Optimal Path for 10 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/015.png" alt="Optimal Path for 15 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/020.png" alt="Optimal Path for 20 Points" width="200px"> |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/025.png" alt="Optimal Path for 25 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/050.png" alt="Optimal Path for 50 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/500.png" alt="Optimal Path for 500 Points" width="200px"> | <img src="https://raw.githubusercontent.com/rempetro/optimal-path/refs/heads/main/examples/5000.png" alt="Optimal Path for 5000 Points" width="200px"> |
 ## Usage
 
 1. **Create an Instance**  
