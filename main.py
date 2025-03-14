@@ -177,7 +177,7 @@ class PointCollector:
 
 
 # Example usage:
-collector = PointCollector(num_points=130)
+collector = PointCollector(num_points=30)
 collector.generate_positions()
 collector.collect_points()
 collector.plot_path()
